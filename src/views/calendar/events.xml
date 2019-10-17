@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<monthly>
+
+
+	<event>
+		<id>1</id>
+		<name>Garden's Birthday ! - 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate>2019-10-14</enddate>
+		<starttime>12:00</starttime>
+		<endtime>2:00</endtime>
+		<color>#ffb128</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>2</id>
+		<name>jjjj 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>2</id>
+		<name>mkmkm 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+
+		<event>
+		<id>2</id>
+		<name> jnuii 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+
+		<event>
+		<id>2</id>
+		<name>kmkmkm 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+	<event>
+		<id>2</id>
+		<name>ansdanjdsa 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+
+		<event>
+		<id>2</id>
+		<name>nino 4 Tables</name>
+		<startdate>2019-10-14</startdate>
+		<enddate></enddate>
+		<starttime></starttime>
+		<endtime></endtime>
+		<color>#28cbff</color>
+		<url></url>
+	</event>
+	<event>
+		<id>3</id>
+		<name>Slot 6</name>
+		<startdate>2019-10-15</startdate>
+		<enddate></enddate>
+		<starttime>9:00</starttime>
+		<endtime></endtime>
+		<color>#9cc370</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>4</id>
+		<name>Slot 4</name>
+		<startdate>2019-10-17</startdate>
+		<enddate></enddate>
+		<starttime>9:00</starttime>
+		<endtime></endtime>
+		<color>#9f4b99</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>4</id>
+		<name>Slot 4</name>
+		<startdate>2019-10-17</startdate>
+		<enddate></enddate>
+		<starttime>20:00</starttime>
+		<endtime></endtime>
+		<color>#9f4b99</color>
+		<url></url>
+	</event>
+
+	<event>
+		<id>6</id>
+		<name>Slot 2</name>
+		<startdate>2019-10-15</startdate>
+		<enddate></enddate>
+		<starttime>12:30</starttime>
+		<endtime></endtime>
+		<color>#9f4b99</color>
+		<url></url>
+	</event>
+
+
+</monthly>
