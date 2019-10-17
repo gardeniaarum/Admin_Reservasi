@@ -6,7 +6,7 @@ import(
 	"html/template"
 )
 
-func HomeHandler(w http.ResponseWriter,r *http.Request){
+func IndexHandler(w http.ResponseWriter,r *http.Request){
 	http.FileServer(http.Dir("assets"))
 	// var filepath = path.Join("views/home", "home.html")
 	// var tmpl, err = template.ParseFiles(filepath)
@@ -27,7 +27,7 @@ func HomeHandler(w http.ResponseWriter,r *http.Request){
 		"views/typography.html",
 	))
 
-	var err = tmpl.ExecuteTemplate(w, "home", data)
+	var err = tmpl.ExecuteTemplate(w, "index", data)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
